@@ -1,10 +1,3 @@
-# 启动教程
-
-- 项目录屏：https://www.bilibili.com/video/BV1UB42167kF
-- 启动教程：https://www.bilibili.com/video/BV1pW4y1P7GR
-- 安装包在视频详情中已提供。
-
-
 # 项目简介
 基于Vue.js和SpringBoot的教学资源库系统，分为管理后台和用户网页端，可以给管理员、普通用户使用，包括教师管理、学生管理、课程信息、课程作业、学生选课、学生成绩模块和系统基础模块，项目编号T067。
 
